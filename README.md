@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SAAD-BEN
-- 👀 I’m interested in IA/Machine learning and developping smart apps
-- 🌱 I’m currently studying Data science and business intelligence
+- ✨ I am a junior Data Developper
+- 🌱 I’m currently part of the Data Developper program at @YouCode
+- 👀 I’m interested in IA/Machine learning and developping smart solutions
 - 📫 How to reach me : saad.bentaleb08@gmail.com
 
 <!---
